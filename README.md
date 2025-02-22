@@ -1,2 +1,5 @@
 # qt-checkinsystem
 基于QT的嵌入式考勤数据管理系统
+使用开源的opencv和seetaface视觉库，运行于嵌入式平台
+windows平台部署SQLite数据库以及QT
+嵌入式平台部署QT
